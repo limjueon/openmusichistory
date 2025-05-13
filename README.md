@@ -20,7 +20,7 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 > [Arcangelo_Corelli.md](Arcangelo_Corelli.md)
 
 [limjueon](https://github.com/limjueon)
-> [Barbara Strozi_compatiton.md](Barbara Strozi_compatiton.md)
+> [Barbara_Strozi_compatiton.md](Barbara_Strozi_compatiton.md)
 
 [jjjkk99086](https://github.com/jjjkk99086)
 > [Francois Couperin.md](Francois Couperin.md)
